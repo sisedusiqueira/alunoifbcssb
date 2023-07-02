@@ -7,5 +7,5 @@
 O Python pode ser usado em um servidor para criar aplicativos da web.</p>
 
 
-#Bibliografia
-#https://www.w3schools.com/python/
+<p>Referência</p>
+https://www.w3schools.com/python/

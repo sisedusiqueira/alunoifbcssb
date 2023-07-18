@@ -1,0 +1,13 @@
+aqr = open ('teste.txt','w')
+
+with open ('teste.txt','w') cria um ambitente seguro
+
+with open('Gato.png','rb') as arq:
+    print(arq.read(1))
+    print(arq.read(3))
+    print(arq.read(2))
+    print(arq.read(1))
+    print(arq.read(1))
+
+with open ('teste.txt','r') as arq:
+    print(arq.read())

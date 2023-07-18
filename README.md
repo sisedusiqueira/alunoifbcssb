@@ -13,4 +13,5 @@ https://www.w3schools.com/python/
 <h1>Comandos do GitHub</h1>
 <ul>
   <li><a href="https://github.com/sisedusiqueira/alunoifbcssb/blob/main/github-git-cheat-sheet.pdf">Comandos GitHub</li>
+  <li><a hre="file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/git-push.html">Manual Git</li>
 </ul>

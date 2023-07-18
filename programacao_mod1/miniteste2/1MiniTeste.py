@@ -1,11 +1,20 @@
-pe_direito_chip_identificacao = 4.0
-pe_esquero_tipo_alimento = 3.5
+'''
+Miniteste 2
 
-print('='*50)
+Desenvolver um algoritmo que leia a altura de 15 pessoas.
+Este programa deverá calcular e mostrar.
+A menor altura do grupo.
+A maior altura do grupo.
+'''
 
-qtd_frango = (float(input('Digite o número de frangos: ')))
+num_pessoas = 3
+alturas = []
+for i in range(num_pessoas):
+  altura = input("Digite a altura da pessoa {}: ".format(i+1))
+  alturas.append(altura)
 
-total = (pe_direito_chip_identificacao + ( 2 * pe_esquero_tipo_alimento))
-resultado = total * qtd_frango
+menor_altura = min(alturas)
+maior_altura = max(alturas)
 
-print('Quantidade total de gastos é: ', resultado)
+print("Manor altura do numero de pessoas: ", menor_altura)
+print("Maior altura do numero de pessoas: ", maior_altura)

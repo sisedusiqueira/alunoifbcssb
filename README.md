@@ -12,7 +12,7 @@
 * <a href="">Lista 7</a>
 * <a href="">Lista 8</a>
 
-## Material Slides
+# Material Slides
 <a href="https://drive.google.com/file/d/1yXhQkOMpoEIzLoC22RkC1kEewgTs8JIw/view?hl=pt-BR">Aula 01 - Introdução à Programação - Apostila 1<br>
 <a href="https://drive.google.com/file/d/1AnKJsquc_zhZS2M4_tmo1QZeq5L_uGBb/view?hl=pt-BR">Aula 02 - Introdução à Programação - Apostila 2<br>
 <a href="https://drive.google.com/file/d/1YEfQ_P9RMUOAoYHcYt2XgVG62gs6Be4e/view?hl=pt-BR">Aula 03 - Introdução à Programação - Apostila 3<br>
@@ -30,7 +30,7 @@
 <a href="https://www.youtube.com/watch?v=ezfr9d7wd_k"><br>
 <a href="https://www.youtube.com/watch?v=etjJ_4Eqrk8"><br>
 
-#### Python Orientação a Objetos
+## Python Orientação a Objetos
 class Carro:
     # Definicao dos atributos
     def __init__(self, marca, modelo, ano):
@@ -64,6 +64,7 @@ carro = Carro.criar_carros2()
 
 Carro.imprimir(carro)
 
+
 ## Explique quando utilizar a estrutura de repetição e diferencie as estruturas FOR e WHILE dando um exemplo de uso para cada.
 </p>
 Estruturas de repetição são utilizadas quando um bloco de código é executado em looping repetidas vezes.
@@ -72,7 +73,7 @@ Existem duas formas de criar uma estrutura de repetição:
 
 FOR - usado quando se quer iterar sobre um bloco de código um número determinado de vezes.
 
-# Aqui repetimos o print 3 vezes
+Aqui repetimos o print 3 vezes
 for n in range(0, 3):
     print(n)
 
@@ -119,6 +120,7 @@ No Código temos dois erros. O primeiro tem a ver com a forma como o código foi
 Um outro erro está relacionado a estrutura de controle de fluxo if, que será vista em detalhes em um outro momento. Uma vez que o comando print não está indentado, o mesmo também não está contido no if, deixando-o vazio e isso vai causar um erro de sintaxe.</p>
 
 ## Quantas e quais são as variáveis definidas no exemplo do vídeo.
+
 velocidade_maxima = 240 #Numero
 frase_de_boas_vindas = 'Olá, seja bem-vindo a Dev Aprender!'
 posso_entrar_na_sua_casa = False #Boleanos

@@ -65,32 +65,32 @@ carro = Carro.criar_carros2()
 Carro.imprimir(carro)
 
 
-## Explique quando utilizar a estrutura de repetição e diferencie as estruturas FOR e WHILE dando um exemplo de uso para cada.
+## Explique quando utilizar a estrutura de repetição e diferencie as estruturas FOR e WHILE dando um exemplo de uso para cada.<br>
 </p>
-Estruturas de repetição são utilizadas quando um bloco de código é executado em looping repetidas vezes.
+Estruturas de repetição são utilizadas quando um bloco de código é executado em looping repetidas vezes.<br>
 
-Existem duas formas de criar uma estrutura de repetição:
+Existem duas formas de criar uma estrutura de repetição:<br>
 
-FOR - usado quando se quer iterar sobre um bloco de código um número determinado de vezes.
+FOR - usado quando se quer iterar sobre um bloco de código um número determinado de vezes.<br>
 
-Aqui repetimos o print 3 vezes
-for n in range(0, 3):
-    print(n)
+Aqui repetimos o print 3 vezes<br>
+for n in range(0, 3):<br>
+    print(n)<br>
 
-0
-1
+0<br>
+1<br>
 2
 
 WHILE - usado quando queremos que o bloco de código seja repetido até que uma condição seja satisfeita. Ou seja, é necessário que uma expressão booliana dada seja verdadeira. Assim que ela se tornar falsa, o while para.
 
-# Aqui iniciamos o n em 0, e repetimos o print até que seu valor seja maior ou igual a 3
-n = 0
-while n < 3:
-    print(n)
-    n += 1
+Aqui iniciamos o n em 0, e repetimos o print até que seu valor seja maior ou igual a 3<br>
+n = 0<br>
+while n < 3:<br>
+    print(n)<br>
+    n += 1<br>
 
-0
-1
+0<br>
+1<br>
 2
 </p>
 
@@ -121,9 +121,9 @@ Um outro erro está relacionado a estrutura de controle de fluxo if, que será v
 
 ## Quantas e quais são as variáveis definidas no exemplo do vídeo.
 
-velocidade_maxima = 240 #Numero
-frase_de_boas_vindas = 'Olá, seja bem-vindo a Dev Aprender!'
-posso_entrar_na_sua_casa = False #Boleanos
+velocidade_maxima = 240 #Numero<br>
+frase_de_boas_vindas = 'Olá, seja bem-vindo a Dev Aprender!'<br>
+posso_entrar_na_sua_casa = False #Boleanos<br>
 dollar = 5.25 #Decimal
 
 ## Comandos do GitHub

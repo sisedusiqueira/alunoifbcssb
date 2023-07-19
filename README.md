@@ -64,7 +64,8 @@ carro = Carro.criar_carros2()
 
 Carro.imprimir(carro)
 
-#### Explique quando utilizar a estrutura de repetição e diferencie as estruturas FOR e WHILE dando um exemplo de uso para cada.
+## Explique quando utilizar a estrutura de repetição e diferencie as estruturas FOR e WHILE dando um exemplo de uso para cada.
+</p>
 Estruturas de repetição são utilizadas quando um bloco de código é executado em looping repetidas vezes.
 
 Existem duas formas de criar uma estrutura de repetição:
@@ -90,9 +91,10 @@ while n < 3:
 0
 1
 2
+</p>
 
-
-#### O que é a indentação no Python? Quando utilizar?
+## O que é a indentação no Python? Quando utilizar?
+<p>
 Indentação é uma forma de arrumar o código, fazendo com que algumas linhas fiquei mais à direita que as outras, à medida que adicionamos espaços em seu início. Para a maioria das linguagens a indentação não é obrigatória, mas no caso Python isso é diferente.
 
 A indentação é uma característica importante no Python, pois além de promover a legibilidade é essencial para o bom funcionamento do código. Em outras palavras, se a indentação não estiver adequada o programa pode se comportar de forma inesperada ou até mesmo não compilar.
@@ -114,13 +116,13 @@ print("x é maior que 8")
 
 No Código temos dois erros. O primeiro tem a ver com a forma como o código foi escrito, porque se se espera que o comando print seja executado apenas se x for maior que 8, ele deveria estar indentado.
 
-Um outro erro está relacionado a estrutura de controle de fluxo if, que será vista em detalhes em um outro momento. Uma vez que o comando print não está indentado, o mesmo também não está contido no if, deixando-o vazio e isso vai causar um erro de sintaxe.
+Um outro erro está relacionado a estrutura de controle de fluxo if, que será vista em detalhes em um outro momento. Uma vez que o comando print não está indentado, o mesmo também não está contido no if, deixando-o vazio e isso vai causar um erro de sintaxe.</p>
 
-#### Quantas e quais são as variáveis definidas no exemplo do vídeo.
+## Quantas e quais são as variáveis definidas no exemplo do vídeo.
 velocidade_maxima = 240 #Numero
 frase_de_boas_vindas = 'Olá, seja bem-vindo a Dev Aprender!'
 posso_entrar_na_sua_casa = False #Boleanos
 dollar = 5.25 #Decimal
 
-### Comandos do GitHub
+## Comandos do GitHub
 <a href="https://github.com/sisedusiqueira/alunoifbcssb/blob/main/github-git-cheat-sheet.pdf">Comandos GitHub</a>

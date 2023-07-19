@@ -31,12 +31,13 @@
 <a href="https://www.youtube.com/watch?v=etjJ_4Eqrk8"><br>
 
 ## Python Orientação a Objetos
-class Carro:
-    # Definicao dos atributos
-    def __init__(self, marca, modelo, ano):
-        self.marca = marca
-        self.modelo = modelo
-        self.ano = ano
+
+class Carro:<br>
+    # Definicao dos atributos<br>
+    def __init__(self, marca, modelo, ano):<br>
+        self.marca = marca<br>
+        self.modelo = modelo<br>
+        self.ano = ano<br>
    
     #Definicao dos metodos
     def imprimir(lista):

@@ -13,7 +13,7 @@
 * <a href="">Lista 8</a>
 
 ## Comandos do GitHub
-*<a href="https://github.com/sisedusiqueira/alunoifbcssb/blob/main/github-git-cheat-sheet.pdf">Comandos GitHub</a>
+<a href="https://github.com/sisedusiqueira/alunoifbcssb/blob/main/github-git-cheat-sheet.pdf">Comandos GitHub</a>
 
 ### Referência
 https://www.w3schools.com/python/

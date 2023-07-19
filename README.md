@@ -13,9 +13,9 @@
 * <a href="">Lista 8</a>
 
 ## Material Slides
-<a href="https://drive.google.com/file/d/1yXhQkOMpoEIzLoC22RkC1kEewgTs8JIw/view?hl=pt-BR">Aula 01 - Introdução à Programação<br>
-<a href="https://drive.google.com/file/d/1AnKJsquc_zhZS2M4_tmo1QZeq5L_uGBb/view?hl=pt-BR">Aula 02 - Introdução à Programação<br>
-<a href="https://drive.google.com/file/d/1YEfQ_P9RMUOAoYHcYt2XgVG62gs6Be4e/view?hl=pt-BR">Aula 03 - Introdução à Programação<br>
+<a href="https://drive.google.com/file/d/1yXhQkOMpoEIzLoC22RkC1kEewgTs8JIw/view?hl=pt-BR">Aula 01 - Introdução à Programação - Apostila 1<br>
+<a href="https://drive.google.com/file/d/1AnKJsquc_zhZS2M4_tmo1QZeq5L_uGBb/view?hl=pt-BR">Aula 02 - Introdução à Programação - Apostila 2<br>
+<a href="https://drive.google.com/file/d/1YEfQ_P9RMUOAoYHcYt2XgVG62gs6Be4e/view?hl=pt-BR">Aula 03 - Introdução à Programação - Apostila 3<br>
 <a href="https://www.youtube.com/watch?v=ii4tVqL49wY">Aula 04 - Introdução à Programação - Variáveis em Python 3<br>
 <a href="https://drive.google.com/file/d/1Dp1fuueKJQHKrW8MoTnX_CNzZwVMdpqr/view?hl=pt-BR">Aula 05 - Introdução à Programação - Lista 02 Exercícios - Respostas<br>
 <a href="https://drive.google.com/file/d/13_jVhzIVFJs4CQ9AE71J1EnHFXZntIOv/view?hl=pt-BR">Aula 06 - Introdução à Programação - Lista 02 Exercícios - Operadores Aritméticos, Relacionais e Lógico<br>
@@ -24,9 +24,9 @@
 <a href="https://www.youtube.com/watch?v=Pi3cHCFWb60">Aula 09 - Introdução à Programação - If e a Indentação em Python<br>
 <a href="https://www.devmedia.com.br/python-estrutura-de-repeticao-while/38546?authuser=0&hl=pt-BR">Aula 10 - Introdução à Programação - Python: Estrutura de repetição while<br>
 <a href="http://curso.grupysanca.com.br/pt/latest/repeticao.html?authuser=0&hl=pt-BR">Aula 11 - Introdução à Programação - Estruturas de repetição<br>
-<a href="https://drive.google.com/file/d/1s9GicWTV4DrhkmdJIqDEymsePkrd-nsv/view?hl=pt-BR">Aula 12 - Estrutura de Repetição While<br>
-<a href="https://www.loom.com/share/637e520dfd5b46348796da05caf822b3?authuser=0&hl=pt-BR">Aula 13 - Listas e FOR<br>
-<a href="https://www.loom.com/share/6b0078621b4a4846a4aaed6a341e9439?authuser=0&hl=pt-BR">Aula 14 - Listas e FOR<br>
+<a href="https://drive.google.com/file/d/1s9GicWTV4DrhkmdJIqDEymsePkrd-nsv/view?hl=pt-BR">Aula 12 - Introdução à Programação - Estrutura de Repetição While<br>
+<a href="https://www.loom.com/share/637e520dfd5b46348796da05caf822b3?authuser=0&hl=pt-BR">Aula 13 - Introdução à Programação - Listas e FOR<br>
+<a href="https://www.loom.com/share/6b0078621b4a4846a4aaed6a341e9439?authuser=0&hl=pt-BR">Aula 14 - Introdução à Programação - Listas e FOR<br>
 <a href="https://www.youtube.com/watch?v=ezfr9d7wd_k"><br>
 <a href="https://www.youtube.com/watch?v=etjJ_4Eqrk8"><br>
 

@@ -16,14 +16,14 @@ https://www.w3schools.com/python/
 *<a href="file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/git-push.html">Manual GitHub
 
 # Exercícios
-*Lista 1
-*Lista 2
-*Lista 3
-*Lista 4
-*Lista 5
-*Lista 6
-*Lista 7
-*Lista 8
+* Lista 1
+* Lista 2
+* Lista 3
+* Lista 4
+* Lista 5
+* Lista 6
+* Lista 7
+* Lista 8
 
 
   

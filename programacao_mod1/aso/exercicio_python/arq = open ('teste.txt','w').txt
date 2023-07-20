@@ -1,4 +1,4 @@
-aqr = open ('teste.txt','w')
+arq = open ('teste.txt','w')
 
 with open ('teste.txt','w') cria um ambitente seguro
 

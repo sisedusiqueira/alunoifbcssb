@@ -111,3 +111,61 @@ if __name__ == "__main__":
     # Inicia as duas threads
     t1.start()
     t2.start()
+```
+
+# Adminstração de Sistemas Operacionais - Profº Luiz
+
+# Lista de Exercícios - Criação de arquivos
+
+
+1. Crie um código em Python que crie 10 arquivos vazios na pasta C:/Users/alunocssb/Desktop
+
+for a in range(10):
+	arq = open('C:\\Users\\alunocssb\\Desktop\\Arquivo' + str(a) + '.txt','w')
+
+
+
+2. Crie um código em Python que crie 10 pastas na pasta C:/Users/alunocssb/Desktop
+
+import os
+
+for p in range(10):
+	os.system ('mkdir C:\\Users\\Alunocssb\\Desktop\\pasta +str(p))
+
+
+
+3. Crie um código em Python que crie 15 pastas com 35 arquivos vazios dentro delas
+
+for p in range(15):
+	os.system('mkdir p+str(p))
+	for a in range(35):
+		arq = open('pasta+str(p)+'/arquivo+str(a)+'.txt','w')
+
+
+  
+4. Crie um código em Python que crie 15 arquivos com 500 Bytes cada
+
+for a in range(15):
+	with open('Arquivo',+str(a+1)+'.txt','w') as arq:
+		for b in range(500):
+			arq.write('V')
+
+
+
+5. Crie um código em Python que imprima na tela o conteúdo dos 15 arquivos criados no exercício anterior
+
+for a in range(15):
+	with open('Arquivo',+str(a+1)+'.txt','r') as arq:
+		print(arq.read())
+
+
+
+6. Crie um código em Python que exclua as 15 pastas do exercício 3. Pode utilizar o comando 'rm'.
+
+import os
+for p in range(15):
+	os.system('rmdir pasta+str(p))
+
+
+
+ 

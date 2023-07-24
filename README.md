@@ -27,10 +27,10 @@
 * <a href="https://www.devmedia.com.br/python-estrutura-de-repeticao-while/38546?authuser=0&hl=pt-BR">Aula 10 - Introdução à Programação - Python: Estrutura de repetição while</a>
 * <a href="http://curso.grupysanca.com.br/pt/latest/repeticao.html?authuser=0&hl=pt-BR">Aula 11 - Introdução à Programação - Estruturas de repetição</a>
 * <a href="https://drive.google.com/file/d/1s9GicWTV4DrhkmdJIqDEymsePkrd-nsv/view?hl=pt-BR">Aula 12 - Introdução à Programação - Estrutura de Repetição While</a>
-* <a href="https://www.loom.com/share/637e520dfd5b46348796da05caf822b3?authuser=0&hl=pt-BR">Aula 13 - Introdução à Programação - Listas e FOR</a>
-* <a href="https://www.loom.com/share/6b0078621b4a4846a4aaed6a341e9439?authuser=0&hl=pt-BR">Aula 14 - Introdução à Programação - Listas e FOR</a>
-* <a href="https://www.youtube.com/watch?v=ezfr9d7wd_k">Aula 15 - Introdução à Programação - Listas e FOR</a>
-* <a href="https://www.youtube.com/watch?v=etjJ_4Eqrk8">Aula 16 - Introdução à Programação - Listas e FOR</a>
+* <a href="https://www.loom.com/share/637e520dfd5b46348796da05caf822b3?authuser=0&hl=pt-BR">Aula 13 - Introdução à Programação - Listas Python</a>
+* <a href="https://www.loom.com/share/6b0078621b4a4846a4aaed6a341e9439?authuser=0&hl=pt-BR">Aula 14 - Introdução à Programação - FOR Python</a>
+* <a href="https://www.youtube.com/watch?v=ezfr9d7wd_k">Aula 15 - Introdução à Programação - Curso Python #20 - Funções (Parte 1)</a>
+* <a href="https://www.youtube.com/watch?v=etjJ_4Eqrk8">Aula 16 - Introdução à Programação - Curso Python #21 - Funções (Parte 2)</a>
 
 ## Comandos do GitHub
 * <a href="https://github.com/sisedusiqueira/alunoifbcssb/blob/main/github-git-cheat-sheet.pdf">Comandos GitHub</a>

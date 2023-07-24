@@ -3,14 +3,16 @@
 # Introdução a Programação com Python
 
 # Exercícios
-* <a href="">Lista 1</a>
-* <a href="">Lista 2</a>
-* <a href="">Lista 3</a>
-* <a href="">Lista 4</a>
-* <a href="">Lista 5</a>
-* <a href="">Lista 6</a>
-* <a href="">Lista 7</a>
-* <a href="">Lista 8</a>
+* <a href="https://github.com/sisedusiqueira/alunoifbcssb/tree/main/programacao_mod1/lista1">Lista 1</a>
+* <a href="https://github.com/sisedusiqueira/alunoifbcssb/tree/main/programacao_mod1/lista2">Lista 2</a>
+* <a href="https://github.com/sisedusiqueira/alunoifbcssb/tree/main/programacao_mod1/lista3">Lista 3</a>
+* <a href="https://github.com/sisedusiqueira/alunoifbcssb/tree/main/programacao_mod1/lista4">Lista 4</a>
+* <a href="https://github.com/sisedusiqueira/alunoifbcssb/tree/main/programacao_mod1/lista5">Lista 5</a>
+* <a href="https://github.com/sisedusiqueira/alunoifbcssb/tree/main/programacao_mod1/lista6">Lista 6</a>
+* <a href="https://github.com/sisedusiqueira/alunoifbcssb/tree/main/programacao_mod1/lista7">Lista 7</a>
+* <a href="https://github.com/sisedusiqueira/alunoifbcssb/tree/main/programacao_mod1/miniteste1">Miniteste 1</a>
+* <a href="">Miniteste 2</a>
+* <a href="">Miniteste 3</a>
 
 # Material Slides
 <a href="https://drive.google.com/file/d/1yXhQkOMpoEIzLoC22RkC1kEewgTs8JIw/view?hl=pt-BR">Aula 01 - Introdução à Programação - Apostila 1<br>

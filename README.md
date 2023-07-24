@@ -15,9 +15,9 @@
 * <a href="https://github.com/sisedusiqueira/alunoifbcssb/blob/main/programacao_mod1/miniteste3/3MiniTeste.py">Miniteste 3</a>
 
 # Material Slides
-<a href="https://drive.google.com/file/d/1yXhQkOMpoEIzLoC22RkC1kEewgTs8JIw/view?hl=pt-BR">Aula 01 - Introdução à Programação - Apostila 1<br>
-<a href="https://drive.google.com/file/d/1AnKJsquc_zhZS2M4_tmo1QZeq5L_uGBb/view?hl=pt-BR">Aula 02 - Introdução à Programação - Apostila 2<br>
-<a href="https://drive.google.com/file/d/1YEfQ_P9RMUOAoYHcYt2XgVG62gs6Be4e/view?hl=pt-BR">Aula 03 - Introdução à Programação - Apostila 3<br>
+<a href="https://drive.google.com/file/d/1yXhQkOMpoEIzLoC22RkC1kEewgTs8JIw/view?hl=pt-BR">Aula 01 - Introdução à Programação - Apostila 1</a>
+<a href="https://drive.google.com/file/d/1AnKJsquc_zhZS2M4_tmo1QZeq5L_uGBb/view?hl=pt-BR">Aula 02 - Introdução à Programação - Apostila 2</a>
+<a href="https://drive.google.com/file/d/1YEfQ_P9RMUOAoYHcYt2XgVG62gs6Be4e/view?hl=pt-BR">Aula 03 - Introdução à Programação - Apostila 3</a>
 <a href="https://www.youtube.com/watch?v=ii4tVqL49wY">Aula 04 - Introdução à Programação - Variáveis em Python 3<br>
 <a href="https://drive.google.com/file/d/1Dp1fuueKJQHKrW8MoTnX_CNzZwVMdpqr/view?hl=pt-BR">Aula 05 - Introdução à Programação - Lista 02 Exercícios - Operadores Aritméticos, Relacionais e Lógico<br>
 <a href="https://drive.google.com/file/d/13_jVhzIVFJs4CQ9AE71J1EnHFXZntIOv/view?hl=pt-BR">Aula 06 - Introdução à Programação - Lista 02 Exercícios - Respostas<br>
